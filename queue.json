@@ -1,0 +1,15 @@
+[
+ {
+  "id": "02_shorba_zabadi",
+  "slot": "2026-11-26T09:49:00+04:00",
+  "video": "https://raw.githubusercontent.com/aasaad7102-eng/ya-salaam-videos/main/02_shorba_zabadi/video.mp4",
+  "caption": "https://raw.githubusercontent.com/aasaad7102-eng/ya-salaam-videos/main/02_shorba_zabadi/caption.txt",
+  "note": "already posted manually"
+ },
+ {
+  "id": "01_ammi_yebqa_ammi",
+  "slot": "2026-11-26T21:00:00+04:00",
+  "video": "https://raw.githubusercontent.com/aasaad7102-eng/ya-salaam-videos/main/01_ammi_yebqa_ammi/video.mp4",
+  "caption": "https://raw.githubusercontent.com/aasaad7102-eng/ya-salaam-videos/main/01_ammi_yebqa_ammi/caption.txt"
+ }
+]
