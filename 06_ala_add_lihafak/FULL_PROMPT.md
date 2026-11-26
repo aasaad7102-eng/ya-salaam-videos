@@ -18,20 +18,21 @@ Characters (keep identical in every clip):
 - DAD: bald, mustache, orange-red shirt, holds a price tag "999 AED".
 - THE FEET: the kid's two bare feet have cartoon faces (eyes, mouths, five toes), skin-colored; they turn icy blue with icicles when cold; they grow huge when stretching.
 - THE BLANKET: a small pink blanket with white wave stripes; it stretches visibly.
-No real brands, no real people, halal content only (no alcohol, no suggestive content, no instruments of haram music tropes), nothing scary.
+No real brands, no real people, halal content only (no alcohol, no suggestive content; music is vocals + claps + hand percussion only, no instruments), nothing scary.
 On-screen text style: big white captions with dark outline at the lower-middle of the screen, active word turns blue (#3D8BFF), small "Ya Salaam Show" watermark drifting slowly around the frame.
 
 ---------------------------------------------------------------------
 ## 2. MUSIC / SONG SPEC (for the music generator)
 ---------------------------------------------------------------------
-Genre: upbeat, funny, danceable pop with an Egyptian shaabi/mahraganat-flavored groove, kid-friendly. NO sexual or haram themes. Tempo: 112 BPM, 4/4. Key: minor-ish playful, bouncy bass, claps, handclaps on 2 and 4, tabla/darbuka-style hand percussion, light synth pluck, brass stabs on the hook.
+Genre: upbeat, funny, danceable kids-and-family song with an Egyptian street-party groove. NO sexual or haram themes. Tempo: 112 BPM, 4/4.
+HALAL MUSIC ONLY: NO instruments, NO synths, NO guitars, NO bass instruments. Only lead vocal, group shout-along backing vocals, hand claps on 2 and 4, finger snaps, and tabla-style hand percussion (darbuka/riq).
 Voice: one energetic male lead singing English, with a cheeky comedic delivery; the Arabic hook shouted clearly in Egyptian Arabic (Cairo dialect), with a small backing crowd answering "YALLA!". Duration 66 s, ends cleanly on a final stab (no long fade).
 Pronunciation of the hook (CRITICAL): the Arabic must be sung exactly in Egyptian dialect:
  "على قد لحافك مد رجليك"  =  "Ala add lihafak, mudd rigleik"
  (stress: a-LA add li-HA-fak, MUDD rig-LEIK; the "g" in rigleik is a hard Egyptian G). Write the hook in Arabic script inside the lyrics, not in Latin letters.
 
 ### Lyrics with exact timing (seconds)
-0.0 – 8.5     INTRO (instrumental): drums + bass groove, whistle-like synth riff, build-up to the first line.
+0.0 – 8.5     INTRO: hand-percussion and claps groove (no instruments), build-up to the first line.
 8.5 – 10.45   I went to bed with a blanket so small
 10.7 – 12.5   Covered my head, but my feet? Not at all!
 12.7 – 14.6   My feet said "Ya amm, mafeesh, mafeesh!"
@@ -40,21 +41,21 @@ Pronunciation of the hook (CRITICAL): the Arabic must be sung exactly in Egyptia
 18.96 – 21.1  Stretch your legs as far as your blanket goes!
 21.18 – 23.22 [HOOK, Arabic]  على قد لحافك مد رجليك
 23.32 – 25.58 Not one inch more, yalla, here it goes!
-25.6 – 34.2   INSTRUMENTAL DANCE BREAK (drums + brass, crowd "Yalla!" shouts)
+25.6 – 34.2   PERCUSSION DANCE BREAK (darbuka + claps, crowd "Yalla!" shouts)
 34.26 – 36.2  Pulled it to my nose, my toes caught a cold
 36.28 – 38.36 They shouted "Ya basha, we're freezing, we're old!"
 38.46 – 40.6  My uncle said "Khalas, buy a bigger one, ya sa7bi!"
 40.7 – 42.82  Dad said "Ya ammo, the price? Eshta, no way!"
 42.82 – 44.9  (short drum fill)
 44.94 – 47.0  Stretch, stretch, stretch!
-47.0 – 49.3   (rising synth riser)
+47.0 – 49.3   (rising claps and crowd "ooooh")
 49.32 – 51.4  Only as far as the blanket reaches, yalla!
-51.4 – 55.4   (instrumental, groove returns, big claps)
+51.4 – 55.4   (percussion groove returns, big claps)
 55.42 – 57.48 [HOOK, Arabic]  على قد لحافك مد رجليك
 57.56 – 59.66 Stretch your legs as far as your blanket goes!
 59.72 – 61.8  [HOOK, Arabic]  على قد لحافك مد رجليك
 61.88 – 64.2  Not one inch more, yalla, here it goes!
-64.2 – 66.0   Final brass stab and outro button. End.
+64.2 – 66.0   Final group shout and clap. End.
 
 ---------------------------------------------------------------------
 ## 3. SHOT-BY-SHOT VIDEO PLAN (5 clips of up to 15 s, then stitch)
@@ -101,7 +102,7 @@ Each clip prompt = GLOBAL STYLE BLOCK + the scene text below. Use the last frame
 57.56 – 59.66 "Stretch your legs as far as your blanket goes!"
 59.72 – 61.8  Arabic hook again.
 61.88 – 64.2  "Not one inch more, yalla, here it goes!" confetti x2 at 61.9 and 64.0.
-64.2 – 66.0   Final brass stab; everyone freezes in a pose, kid center.
+64.2 – 66.0   Final group shout; everyone freezes in a pose, kid center.
 64.8 – 67.4   Grayscale background, green chalkboard card: "WORD FOR WORD: Stretch your legs as far as your blanket goes!" and below it in Arabic: "اصرف على قد فلوسك.. وعيش على قد حالك!"
 67.4 – 70.0   Poll card: "Who has the biggest feet in your family?" / "مين أكبر رجلين في عيلتك؟" and a blue button "Comment it below".
 
