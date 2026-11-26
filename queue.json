@@ -25,5 +25,12 @@
   "slot": "2026-11-26T14:00:00+04:00",
   "video": "https://raw.githubusercontent.com/aasaad7102-eng/ya-salaam-videos/main/04_kbeer/video.mp4",
   "caption": "https://raw.githubusercontent.com/aasaad7102-eng/ya-salaam-videos/main/04_kbeer/caption.txt"
+ },
+ {
+  "id": "05_yitgawwiz_ommi_3d",
+  "slot": "2026-11-26T13:35:00+04:00",
+  "video": "https://raw.githubusercontent.com/aasaad7102-eng/ya-salaam-videos/main/05_yitgawwiz_ommi_3d/video.mp4",
+  "caption": "https://raw.githubusercontent.com/aasaad7102-eng/ya-salaam-videos/main/05_yitgawwiz_ommi_3d/caption.txt",
+  "note": "posted manually"
  }
 ]
